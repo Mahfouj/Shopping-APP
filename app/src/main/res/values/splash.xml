@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.Staring" parent="Theme.SplashScreen">
+
+    <item name="windowSplashScreenBackground">@color/blue_A200</item>
+
+    <item name="windowSplashScreenAnimatedIcon">@drawable/img_logo</item>
+    <item name="postSplashScreenTheme">@style/Theme.App.Staring</item>
+
+</style>
+
+</resources>
